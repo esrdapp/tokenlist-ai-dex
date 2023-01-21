@@ -27,14 +27,6 @@
 	"decimals": 18,
 	"chainId": 269,
 	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_esr.svg"
-	},	  
-	{
-	"name": "Cloned ETH Token",
-	"address": "0x0F63352dF611350201c419dE9399a67e50D4B820",
-	"symbol": "ETH",
-	"decimals": 18,
-	"chainId": 269,
-	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_ETH.svg"
 	}
   ]
 }
