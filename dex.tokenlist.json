@@ -13,14 +13,6 @@
   ],
   "tokens": [
     {
-	"name": "Wrapped HPB",
-	"address": "0xBE05Ac1FB417c9EA435b37a9Cecd39Bc70359d31",
-	"symbol": "WHPB",
-	"decimals": 18,
-	"chainId": 269,
-	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_whpb.svg"
-	},
-    {
       "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
       "chainId": 1,
       "name": "0xBitcoin Token",
