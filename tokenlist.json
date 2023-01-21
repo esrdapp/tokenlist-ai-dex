@@ -43,14 +43,6 @@
 	"decimals": 18,
 	"chainId": 269,
 	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_hpd.svg"
-	},
-	{
-	"name": "Bibox Clone USDT Token",
-	"address": "0xd378634119d2f7b3cf3d60e0b0f5e048e74ce3cf",
-	"symbol": "USDT",
-	"decimals": 18,
-	"chainId": 269,
-	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_USDT.svg"
 	}
   ]
 }
