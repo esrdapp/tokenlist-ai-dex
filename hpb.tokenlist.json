@@ -24,14 +24,6 @@
 			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_esr.svg"
 		},
 		{
-			"name": "Clone ETH Token",
-			"address": "0x0F63352dF611350201c419dE9399a67e50D4B820",
-			"symbol": "ETH",
-			"decimals": 18,
-			"chainId": 269,
-			"logoURI": "https://raw.githubusercontent.com/esrdapp/ai-dex-swap/main/public/images/clone-eth.svg"
-		},
-		{
 			"name": "Hpdex Token",
 			"address": "0x6383f770f1eec68e80ac0c5527be71a11b4d182c",
 			"symbol": "HPD",
@@ -42,10 +34,10 @@
 		{
 			"name": "Clone USDT Token",
 			"address": "0xd378634119d2f7b3cf3d60e0b0f5e048e74ce3cf",
-			"symbol": "USDT",
+			"symbol": "Bibox-only USDT",
 			"decimals": 18,
 			"chainId": 269,
-			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_USDT.svg"
+			"logoURI": "https://raw.githubusercontent.com/esrdapp/ai-dex-swap/main/public/images/bibox-usdt.svg"
 		},
 		{
 			"name": "STEAM Token",
