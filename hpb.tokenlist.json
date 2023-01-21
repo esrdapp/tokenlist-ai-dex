@@ -13,7 +13,7 @@
 			"symbol": "WHPB",
 			"decimals": 18,
 			"chainId": 269,
-			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_whpb.svg"
+			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/hpb-interface.svg"
 		},
 		{
 			"name": "ESR Token",
@@ -29,7 +29,7 @@
 			"symbol": "ETH",
 			"decimals": 18,
 			"chainId": 269,
-			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_ETH.svg"
+			"logoURI": "https://raw.githubusercontent.com/esrdapp/ai-dex-swap/main/public/images/clone-eth.svg"
 		},
 		{
 			"name": "Hpdex Token",
