@@ -34,7 +34,7 @@
 		{
 			"name": "Clone USDT Token",
 			"address": "0xd378634119d2f7b3cf3d60e0b0f5e048e74ce3cf",
-			"symbol": "Bibox-only USDT",
+			"symbol": "BIBOXUSDT",
 			"decimals": 18,
 			"chainId": 269,
 			"logoURI": "https://raw.githubusercontent.com/esrdapp/ai-dex-swap/main/public/images/bibox-usdt.svg"
