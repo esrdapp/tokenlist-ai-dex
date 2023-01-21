@@ -1,13 +1,13 @@
 {
-  "name": "Example List",
-  "timestamp": "2020-06-15T12:00:00+00:00",
+  "name": "AI-DEX Token List",
+  "timestamp": "2023-01-01T12:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "keywords": [
-    "uniswap",
+    "ai-dex",
     "default",
     "list"
   ],
