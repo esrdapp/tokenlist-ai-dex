@@ -1,5 +1,5 @@
 {
-  "name": "AI-DEX Token List",
+  "name": "Token List",
   "timestamp": "2020-06-15T12:00:00+00:00",
   "version": {
     "major": 1,
@@ -35,14 +35,6 @@
 	"decimals": 18,
 	"chainId": 269,
 	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_ETH.svg"
-	},
-	{
-	"name": "Hpdex Token",
-	"address": "0x6383f770f1eec68e80ac0c5527be71a11b4d182c",
-	"symbol": "HPD",
-	"decimals": 18,
-	"chainId": 269,
-	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_hpd.svg"
 	}
   ]
 }
