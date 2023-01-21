@@ -13,12 +13,13 @@
   ],
   "tokens": [
     {
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "chainId": 1,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18
-    },
+	"name": "Wrapped HPB",
+	"address": "0xBE05Ac1FB417c9EA435b37a9Cecd39Bc70359d31",
+	"symbol": "WHPB",
+	"decimals": 18,
+	"chainId": 269,
+	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_whpb.svg"
+	},
     {
       "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
       "chainId": 1,
