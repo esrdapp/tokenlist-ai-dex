@@ -1,0 +1,32 @@
+{
+  "name": "Example List",
+  "timestamp": "2020-06-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "uniswap",
+    "default",
+    "list"
+  ],
+  "tokens": [
+{
+			"name": "Wrapper HPB",
+			"address": "0xBE05Ac1FB417c9EA435b37a9Cecd39Bc70359d31",
+			"symbol": "WHPB",
+			"decimals": 18,
+			"chainId": 269,
+			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_whpb.svg"
+		},
+		{
+			"name": "ESR Token",
+			"address": "0xa7Be5e053cb523585A63F8F78b7DbcA68647442F",
+			"symbol": "ESR",
+			"decimals": 18,
+			"chainId": 269,
+			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_esr.svg"
+		}
+  ]
+}
